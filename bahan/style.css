@@ -82,7 +82,7 @@
 
 .gambar1
 {
-    height: 400px;
+    height: 450px;
      
 } 
 
@@ -120,4 +120,14 @@
 .bottom1
 {
     width: 100%;
+}
+
+.text-indent
+{
+    text-indent: 50px;
+}
+
+.type
+{
+     
 }
